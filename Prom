@@ -1,73 +1,0 @@
-<!DOCTYPE html>
-<html lang="ar" dir="rtl">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>منصة الدفع - Mega</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body class="bg-gray-100 font-sans">
-
-  <!-- الهيدر -->
-  <header class="bg-gradient-to-r from-blue-600 to-indigo-700 text-white text-center py-6 shadow-lg">
-    <h1 class="text-3xl font-bold">منصة الدفع لفريق Mega</h1>
-    <p class="mt-2 text-lg">💳 طرق الدفع المتوفرة: Baridi Mob و USDT (TRC20 - ERC20 - BEP20)</p>
-  </header>
-
-  <!-- الأسعار -->
-  <section class="max-w-4xl mx-auto mt-10 px-4">
-    <h2 class="text-2xl font-bold text-center mb-6 text-gray-800">🌍 اسعار البوت الجديد مع عروض الشحن التي وعدناكم بها ✅</h2>
-
-    <div class="grid md:grid-cols-3 gap-6">
-      <!-- باقة 3 ساعات -->
-      <div class="bg-white rounded-2xl shadow-lg p-6 text-center hover:scale-105 transition">
-        <h3 class="text-xl font-bold mb-2">🔰 اشتراك 3 ساعات</h3>
-        <p class="text-sm text-gray-500">+ 5$ بونص في 1xbet</p>
-        <p class="text-2xl font-bold mt-4 text-blue-600">30$</p>
-        <p class="text-lg font-semibold text-gray-700">6900 Da ✅</p>
-      </div>
-
-      <!-- باقة 5 ساعات -->
-      <div class="bg-white rounded-2xl shadow-lg p-6 text-center hover:scale-105 transition border-2 border-indigo-500">
-        <h3 class="text-xl font-bold mb-2">🔰 اشتراك 5 ساعات</h3>
-        <p class="text-sm text-gray-500">+ 10$ بونص في 1xbet</p>
-        <p class="text-2xl font-bold mt-4 text-blue-600">45$</p>
-        <p class="text-lg font-semibold text-gray-700">10350 Da ✅</p>
-      </div>
-
-      <!-- باقة 24 ساعة -->
-      <div class="bg-white rounded-2xl shadow-lg p-6 text-center hover:scale-105 transition">
-        <h3 class="text-xl font-bold mb-2">🔰 اشتراك 24 ساعة (يوم)</h3>
-        <p class="text-sm text-gray-500">+ 15$ بونص في 1xbet</p>
-        <p class="text-2xl font-bold mt-4 text-blue-600">120$</p>
-        <p class="text-lg font-semibold text-gray-700">27600 Da ✅</p>
-      </div>
-    </div>
-  </section>
-
-  <!-- اختيار نوع البوت -->
-  <section class="max-w-4xl mx-auto mt-14 px-4">
-    <h2 class="text-2xl font-bold text-center mb-6 text-gray-800">⚡ اختر نوع البوت</h2>
-
-    <div class="grid md:grid-cols-2 gap-6">
-      <!-- بوت Crash -->
-      <div class="bg-gradient-to-r from-green-400 to-green-600 text-white rounded-2xl shadow-lg p-8 text-center hover:scale-105 transition cursor-pointer">
-        <h3 class="text-2xl font-bold mb-4">🎮 بوت لعبة الطيارة (Crash)</h3>
-        <p class="text-sm opacity-90">بوت خاص بلعبة Crash يقدم استراتيجيات احترافية للفوز</p>
-      </div>
-
-      <!-- بوت التفاحة -->
-      <div class="bg-gradient-to-r from-pink-500 to-red-600 text-white rounded-2xl shadow-lg p-8 text-center hover:scale-105 transition cursor-pointer">
-        <h3 class="text-2xl font-bold mb-4">🍎 بوت لعبة التفاحة</h3>
-        <p class="text-sm opacity-90">بوت مميز للعبة التفاحة مع نسب ربح عالية</p>
-      </div>
-    </div>
-  </section>
-
-  <!-- الفوتر -->
-  <footer class="bg-gray-900 text-gray-400 text-center py-4 mt-16">
-    <p>© 2025 منصة Mega - جميع الحقوق محفوظة</p>
-  </footer>
-
-</body>
-</html>
